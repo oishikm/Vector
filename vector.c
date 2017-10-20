@@ -1,6 +1,5 @@
-/*
-*	Program to test vector implementation
-*	Oishik M
+/*	Routine definitions for vector implementation.
+*	Oishik M 
 */
 
 #include<stdio.h>
