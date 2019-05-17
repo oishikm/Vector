@@ -1,2 +1,2 @@
-# vector-1
+# Vector
 Vector Implementation Test
